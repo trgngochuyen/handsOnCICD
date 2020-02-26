@@ -361,4 +361,4 @@ This project exists thanks to all the people who [contribute](CONTRIBUTING.md).<
 
 ## License
 
-Create Gatsby Web is open source software [licensed as MIT](https://github.com/tripheo0412/create-gatsby-web/blob/master/LICENSE).
+Create Gatsby Web is an open source software [licensed as MIT](https://github.com/tripheo0412/create-gatsby-web/blob/master/LICENSE).
