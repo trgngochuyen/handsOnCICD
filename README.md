@@ -17,7 +17,7 @@ npx create-gatsby-web
 cd <your-project-name>
 npm run develop/ yarn develop
 ```
-If you've previously installed `create-gatsby-web` globally via `npm install -g create-gatsby-web`, we recommend you uninstall the package using `npm uninstall -g create-gatsby-web` to ensure that npx always uses the latest version.
+If you have previously installed `create-gatsby-web` globally via `npm install -g create-gatsby-web`, we recommend you uninstall the package using `npm uninstall -g create-gatsby-web` to ensure that npx always uses the latest version.
 
 _([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
 
@@ -361,4 +361,4 @@ This project exists thanks to all the people who [contribute](CONTRIBUTING.md).<
 
 ## License
 
-Create Gatsby Web is open source software [licensed as MIT](https://github.com/tripheo0412/create-gatsby-web/blob/master/LICENSE).
+Create Gatsby Web is an open source software [licensed as MIT](https://github.com/tripheo0412/create-gatsby-web/blob/master/LICENSE).
